@@ -1,2 +1,2 @@
-# Elanguage
-易语言程序组
+# 易语言（EPL）
+**Add** `Cool-Q Bot WeiLiang`
